@@ -13,7 +13,9 @@
 
 ## Installation
 - Rails (rails --version)
+- [Bundler](https://bundler.io/) gem install bundler
 
 ## Helpful Resources
 - https://guides.rubyonrails.org/getting_started.html
 - https://github.com/cfpb/open-source-project-template
+- https://rubygems.org/
